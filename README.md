@@ -25,7 +25,10 @@ chown -R user directory/
 -R: includes all files underthis directory
 
 ## Change Mode
-https://ss64.com/bash/chmod.html[https://ss64.com/bash/chmod.html]
+[https://ss64.com/bash/chmod.html](https://ss64.com/bash/chmod.html)
+
+## Mark Down
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Get IP Address
 ```
