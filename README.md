@@ -18,13 +18,13 @@ For hidden items:
 du -sh .[^.]*
 ```
 
-## Change Owner
+## Change owner
 ```
 chown -R user directory/
 ```
 -R: includes all files underthis directory
 
-## Change Mode
+## chmod
 [https://ss64.com/bash/chmod.html](https://ss64.com/bash/chmod.html)
 
 ## Mark Down
