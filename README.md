@@ -35,9 +35,9 @@ Get Kernel and version
 ```
 uname -v
 ```
--a: all
--n: Network Node Hostname
--m: Machine Hardware Architecture (i386, x86_64, etc.)
+* -a: all
+* -n: Network Node Hostname
+* -m: Machine Hardware Architecture (i386, x86_64, etc.)
 
 Specifically for Mac:
 ```
