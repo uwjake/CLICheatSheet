@@ -30,7 +30,17 @@ chown -R user directory/
 ## Mark Down
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Get IP Address
+## Hardware Info
+Get Kernel and version
 ```
-ifconfig | grep inet
+uname -v
 ```
+-a: all
+-n: Network Node Hostname
+-m: Machine Hardware Architecture (i386, x86_64, etc.)
+
+Specifically for Mac:
+```
+sysctl machdep.cpu.brand_string
+```
+
