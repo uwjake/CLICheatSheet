@@ -44,3 +44,6 @@ Specifically for Mac:
 sysctl machdep.cpu.brand_string
 ```
 
+```
+document.querySelectorAll('style,link[rel="stylesheet"]').forEach(item => item.remove())
+```
